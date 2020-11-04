@@ -1,0 +1,4 @@
+name = "LFkDTree"
+uuid = "2e2057e4-a175-4b46-b35b-201f1927f319"
+authors = ["Tim DuBois <tim@neophilus.net>"]
+version = "0.1.0"
